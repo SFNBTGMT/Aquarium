@@ -3,7 +3,7 @@
 ## Description
 
 Ce projet est une simulation d'un aquarium en Java. Il permet de visualiser des poissons, des pastilles comestibles, des insectes et des décorations dans un environnement interactif. Les utilisateurs peuvent interagir avec l'aquarium en utilisant des commandes clavier pour changer la température, ajouter des éléments, ou réinitialiser l'aquarium.
-![Description de l'image](./issues/1)
+![Image](https://github.com/user-attachments/assets/67992d79-5926-41e6-a96b-4d911f602ed4)
 
 ## Fonctionnalités
 
