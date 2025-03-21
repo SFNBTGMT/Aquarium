@@ -1,4 +1,4 @@
-# Aquarium Simulation Project
+# Aquarium Project
 
 ## Description
 
