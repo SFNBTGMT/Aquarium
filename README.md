@@ -15,7 +15,6 @@ Ce projet est une simulation d'un aquarium en Java. Il permet de visualiser des 
   - `1, 2, 3` : Changer la température (froid, tiède, chaud).
   - `4` : Ajouter un insecte.
   - `5` : Ajouter une pastille comestible.
-  - `6, 7, 8` : Changer le mode (insectivore, pastille, reproduction).
   - `9` : Ajouter un poisson aléatoire.
   - `r, b, m, o` : Stopper tous les poissons sauf les rouges, bleus, mauves ou oranges.
 
