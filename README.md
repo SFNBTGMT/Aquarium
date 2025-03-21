@@ -29,6 +29,6 @@ Ce projet est une simulation d'un aquarium en Java. Il permet de visualiser des 
 1. Clonez le dépôt GitHub :
 
    ```bash
-   git clone https://github.com/SFNBTGMT/aquarium-simulation.git
-   cd aquarium-simulation
+   git clone https://github.com/SFNBTGMT/Aquarium.git
+   cd Aquarium
    
