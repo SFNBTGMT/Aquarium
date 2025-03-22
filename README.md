@@ -8,6 +8,9 @@ Ce projet est une simulation d'un aquarium en Java. Il permet de visualiser des 
 ## l'enonce du projet
 [Projet_Java_III_2223_-v1.pdf](https://github.com/user-attachments/files/19398579/Projet_Java_III_2223_-v1.pdf)
 
+## Screencast du projet
+![Image](https://github.com/user-attachments/assets/70b5bf4c-bac8-4500-a3f3-19cf467faa91)
+
 ## Fonctionnalités
 
 - **Poissons** : Quatre types de poissons (orange, mauve, bleu, rouge) se déplacent dans l'aquarium.
@@ -20,7 +23,6 @@ Ce projet est une simulation d'un aquarium en Java. Il permet de visualiser des 
   - `4` : Ajouter un insecte.
   - `5` : Ajouter une pastille comestible.
   - `9` : Ajouter un poisson aléatoire.
-  - `r, b, m, o` : Stopper tous les poissons sauf les rouges, bleus, mauves ou oranges.
 
 ## Prérequis
 
