@@ -26,6 +26,25 @@ Ce projet est une simulation d'un aquarium en Java. Il permet de visualiser des 
 
 - **Java Development Kit (JDK)** : Version 11 ou supérieure.
 - **Bash** : Pour exécuter le script `run.sh` sous Linux.
+  ```bash
+  #!/bin/bash
+  SRC_DIR="src"
+  BIN_DIR="bin"
+  # Vérifier si le répertoire bin existe, sinon le créer
+  if [ ! -d "$BIN_DIR" ]; then
+  mkdir -p "$BIN_DIR"
+  fi
+  # Compiler tous les fichiers Java dans src et placer les .class dans bin
+  javac -d "$BIN_DIR" "$SRC_DIR"/*.java
+  # Vérifier si la compilation a réussi
+  if [ $? -eq 0 ]; then
+  echo "Compilation réussie."
+
+  # Exécuter l'application
+  java -cp "$BIN_DIR" Main
+  else
+  echo "Error."
+  fi
 
 ## Installation
 
